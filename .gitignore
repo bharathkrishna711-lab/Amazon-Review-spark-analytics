@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Datasets (do not commit data)
+dataset/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
