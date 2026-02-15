@@ -1,9 +1,7 @@
 # Virtual environment
 .venv/
 
-# Datasets (do not commit data)
-dataset/
-*.csv
+
 
 # Jupyter
 .ipynb_checkpoints/
